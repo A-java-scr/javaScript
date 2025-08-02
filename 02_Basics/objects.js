@@ -92,7 +92,14 @@ console.log(Object.values(tinderUser));
 
 //console.log(tinderUser.hasOwnProperty('isLoggesin'));
 
-    
+// =============================================================
+// destructing of objects
+
+const {name}= JsUser
+console.log(name);
+
+
+
 
 
 
